@@ -9,7 +9,7 @@ function Employee(props){
         <>
            <h1>Employee Name is {props.name}</h1>
            <h1>Employee City is {props.city}</h1>
-           <h2>Back The Program</h2>
+           
         </>
     )
 }
